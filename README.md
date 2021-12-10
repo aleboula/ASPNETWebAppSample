@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/AlexisLeBoulanger/26d6ce51-7808-4a63-a717-472cd0dca47b/053f358c-a3e1-4781-a1bf-c23a91b9c952/_apis/work/boardbadge/f8171011-4aec-4e62-b5ba-22c172aa5cb6)](https://dev.azure.com/AlexisLeBoulanger/26d6ce51-7808-4a63-a717-472cd0dca47b/_boards/board/t/053f358c-a3e1-4781-a1bf-c23a91b9c952/Microsoft.RequirementCategory)
 # ASPNETWebAppSample
